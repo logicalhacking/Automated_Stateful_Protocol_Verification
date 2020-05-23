@@ -1,0 +1,31 @@
+To cite the use of this formal theory, please use
+
+  Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker, and Anders Schlichtkrull. 
+  Automated Stateful Protocol Verification. In Archive of Formal Proofs, 2020. 
+  http://www.isa-afp.org/entries/Automated_Stateful_Protocol_Verification.html, 
+  Formal proof development
+
+A BibTeX entry for LaTeX users is
+Article{ hess.ea:automated:2020,
+	abstract= {In protocol verification we observe a wide spectrum from fully 
+                   automated methods to interactive theorem proving with proof 
+                   assistants like Isabelle/HOL. In this AFP entry, we present a 
+                   fully-automated approach for verifying stateful security protocols, 
+                   i.e., protocols with mutable state that may span several sessions. 
+                   The approach supports reachability goals like secrecy and 
+                   authentication. We also include a simple user-friendly 
+                   transaction-based protocol specification language that is embedded 
+                   into Isabelle.},
+	author	= {Andreas V. Hess and Sebastian M{\"o}dersheim and Achim D. Brucker and Anders Schlichtkrull},
+	date	= {2020-04-08},
+	file	= {https://www.brucker.ch/bibliography/download/2020/hess.ea-automated-outline-2020.pdf},
+	filelabel= {Outline},
+	issn	= {2150-914x},
+	journal	= {Archive of Formal Proofs},
+	month	= {apr},
+	note	= {\url{http://www.isa-afp.org/entries/Automated_Stateful_Protocol_Verification.html}, Formal proof development},
+	pdf	= {https://www.brucker.ch/bibliography/download/2020/hess.ea-automated-2020.pdf},
+	title	= {Automated Stateful Protocol Verification},
+	url	= {https://www.brucker.ch/bibliography/abstract/hess.ea-automated-2020},
+	year	= {2020},
+} 
