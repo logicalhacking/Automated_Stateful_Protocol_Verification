@@ -52,6 +52,12 @@ Assurance & Security Research Team](https://logicalhacking.com) at
 ## Publications
 
 * Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker, and Anders
+  Schlichtkrull. Performing Security Proofs of Stateful Protocols. In
+  34th IEEE Computer Security Foundations Symposium (CSF). , IEEE,
+  2021.
+  https://www.brucker.ch/bibliography/abstract/brucker.ea-web-components-2019
+
+* Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker, and Anders
   Schlichtkrull. Automated Stateful Protocol Verification. In Archive 
   of Formal Proofs, 2020. 
   <http://www.isa-afp.org/entries/Automated_Stateful_Protocol_Verification.html>, 

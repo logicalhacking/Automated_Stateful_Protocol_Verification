@@ -6,6 +6,7 @@ To cite the use of this formal theory, please use
   Formal proof development
 
 A BibTeX entry for LaTeX users is
+
 Article{ hess.ea:automated:2020,
 	abstract= {In protocol verification we observe a wide spectrum from fully 
                    automated methods to interactive theorem proving with proof 
@@ -28,4 +29,41 @@ Article{ hess.ea:automated:2020,
 	title	= {Automated Stateful Protocol Verification},
 	url	= {https://www.brucker.ch/bibliography/abstract/hess.ea-automated-2020},
 	year	= {2020},
+} 
+
+An overview of the formalization is given in:
+
+    Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker, and
+    Anders Schlichtkrull. Performing Security Proofs of Stateful
+    Protocols. In 34th IEEE Computer Security Foundations Symposium
+    (CSF). IEEE, 2021.
+    https://www.brucker.ch/bibliography/abstract/brucker.ea-web-components-2019
+
+A BibTeX entry for LaTeX users is
+
+@InProceedings{ hess.ea:performing:2021,
+        abstract  = {In protocol verification we observe a wide spectrum from
+                     fully automated methods to interactive theorem proving with proof
+                     assistants like Isabelle/HOL. The latter provide overwhelmingly high
+                     assurance of the correctness, which automated methods often cannot:
+                     due to their complexity, bugs in such automated verification tools are
+                     likely and thus the risk of erroneously verifying a flawed protocol is
+                     non-negligible. There are a few works that try to combine advantages
+                     from both ends of the spectrum: a high degree of automation and
+                     assurance. We present here a first step towards achieving this for a
+                     more challenging class of protocols, namely those that work with a
+                     mutable long-term state. To our knowledge this is the first approach 
+                     that achieves fully automated verification of stateful protocols in an
+                     LCF-style theorem prover. The approach also includes a simple
+                     user-friendly transaction-based protocol specification language
+                     embedded into Isabelle, and can also leverage a number of existing
+                     results such as soundness of a typed model.},
+        author	  = {Andreas V. Hess and Sebastian M{\"o}dersheim and Achim D. Brucker and Anders Schlichtkrull},
+	booktitle = {34th {IEEE} Computer Security Foundations Symposium (CSF)},
+	location  = {June 21-25, 2021, Dubrovnik, Croatia},
+	pdf	  = {https://www.brucker.ch/bibliography/download/2021/hess.ea-performing-2021.pdf},
+	publisher = {{IEEE}},
+	title	  = {Performing Security Proofs of Stateful Protocols},
+	url	  = {https://www.brucker.ch/bibliography/abstract/hess.ea-performing-2021},
+	year	  = {2021},
 } 
