@@ -21,7 +21,7 @@ for installing the AFP locally. For short:
 * Let's assume the extracted archive lives in `/home/isabelle/afp`, now execute:
 
 ```console
-achim@logicalhacking:~$ echo "/home/isabelle/afp/thys" >> ~/.isabelle/Isabelle2020/ROOTS
+achim@logicalhacking:~$ isabelle components -u "/home/isabelle/afp/thys"
 ```
 
 ## How to build
