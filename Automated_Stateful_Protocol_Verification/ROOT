@@ -1,7 +1,7 @@
 chapter AFP
 
 session "Automated_Stateful_Protocol_Verification-devel" (AFP) = "Stateful_Protocol_Composition_and_Typing" +
-  options [timeout = 2400]
+  options [timeout = 4200]
   sessions
     "HOL-Eisbach"
   directories
